@@ -1,3 +1,4 @@
-# YXAlertController
-对UIAlertController的封装,使用简单简洁
-Installation
+# Installation
+将YXAlertController文件夹拖入工程即可
+
+
