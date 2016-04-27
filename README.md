@@ -1,8 +1,7 @@
 ## Installation
-Drag the file:YXAlertController to your project.
-then 
+Drag the file:YXAlertController to your project
 ```objective-c
-#import "UIAlertController+block.h"
+#import "UIAlertController+YXAdd.h"
 ```
 ## Usage
 ```objective-c
