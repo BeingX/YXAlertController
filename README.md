@@ -4,7 +4,7 @@ Drag the file:YXAlertController to your project
 #import "UIAlertController+YXAdd.h"
 ```
 ## Usage
-![image](http://xiangce.baidu.com/picture/detail/3ff83ae56edd8f3da7aaf0b68168e8d928abf06b)
+![image](http://a.picphotos.baidu.com/album/s%3D1600%3Bq%3D90/sign=9d7d919f72f08202299295397bcbc09c/5882b2b7d0a20cf4019b8b6377094b36acaf9906.jpg)
 ```objective-c
 UIAlertController *aler2 =  [UIAlertController alertControllerWithTitle:@"确定取消" message:@"确定取消确定取消确定取消" cancelClicked:^{
 NSLog(@"取消");
